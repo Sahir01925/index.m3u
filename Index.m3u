@@ -89,3 +89,5 @@ http://watchindia.net:8880/live/dharmend/PTukavDWzh/2295.ts
 http://humiptv.live:8080/live/RkAdhikari/Raju5555/3801.ts
 #EXTINF:-1, Jamuna TV
 http://iptvbd.jagobd.com:1931/live-orgin/jamuna-test-sample-ok.stream/chunks.m3u8
+#EXTINF:-1, KTV
+https://server1.jadubd.com/ktvbangla/ktvbangla/playlist.m3u8
